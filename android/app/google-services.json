@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855310080832",
+    "project_id": "waste-collector-2d082",
+    "storage_bucket": "waste-collector-2d082.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855310080832:android:13238279b3b4b66ca8f8a5",
+        "android_client_info": {
+          "package_name": "com.example.collector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRQql2UI3Sm24fLazWoIUQKtbdYfw_uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
