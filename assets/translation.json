@@ -1,0 +1,67 @@
+[
+    {
+      "@@locale": "sw",
+      "helloWorld": "Habari Dunia",
+      "welcomeMessage": "Karibu kwenye RecycleHub",
+      "schedulePickup": "Panga Kuchukuliwa",
+      "recyclingTips": "Vidokezo vya Urejeshaji",
+      "recentPickupActivity": "Shughuli za Karibuni za Kuchukua",
+      "welcomeUser": "Karibu, {username}!",
+      "makeTanzaniaCleaner": "Hebu tufanye Tanzania kuwa safi na kijani!",
+      "recyclingTipsTitle": "Vidokezo vya Urejeshaji",
+      "schedulePickupAction": "Panga Kuchukua",
+      "recyclingTipsAction": "Vidokezo vya Urejeshaji",
+      "noRecentPickups": "Hakuna uchukuaji wa hivi karibuni.",
+      "pickupActivityStatus": "Hali ya shughuli: {status}",
+      "pickupLocation": "Mahali pa kuchukua: {location}",
+      "formattedPickupDate": "{day}/{month}/{year} saa {hour}:{minute}",
+      "activityNotification": "Arifa za shughuli: {activity}"
+    },
+    {
+      "@@locale": "sw",
+      "scheduledWasteCollections": "Orodha ya Mikutano ya Urejeshaji Taka",
+      "noScheduledWasteCollections": "Hakuna mikutano ya urejeshaji taka iliyopangwa.",
+      "errorFetchingScheduleData": "Hitilafu wakati wa kupakia data za mikutano.",
+      "wasteType": "Aina ya Taka",
+      "pickupLocation": "Mahali pa Kuchukuliwa",
+      "deleteSchedule": "Futa Mkutano",
+      "scheduleDetails": "Maelezo ya Mkutano",
+      "pickupDate": "Tarehe ya Kuchukuliwa",
+      "close": "Funga"
+    },
+    {
+      "appBarTitle": "Panga Uchukuzi wa Taka",
+      "formTitle": "Tafadhali fanya ratiba ya uchukuzi wa taka",
+      "wasteDetailsLabel": "Maelezo ya Taka",
+      "wasteDetailsError": "Tafadhali ingiza maelezo ya taka",
+      "pickupDateLabel": "Tarehe ya Uchukuzi",
+      "pickupDateError": "Tafadhali chagua tarehe",
+      "pickupDatePastError": "Tarehe lazima iwe ya baadaye",
+      "pickupTimeLabel": "Muda wa Uchukuzi",
+      "pickupTimeError": "Tafadhali chagua muda",
+      "wasteTypeLabel": "Aina ya Taka",
+      "wasteTypeError": "Tafadhali chagua aina ya taka",
+      "amountOfWasteLabel": "Kiasi cha Taka (kg)",
+      "amountOfWasteError": "Ingiza kiasi kilicho juu ya 0",
+      "pickupLocationLabel": "Eneo la Uchukuzi",
+      "pickupLocationError": "Tafadhali ingiza eneo",
+      "additionalNotesLabel": "Maelezo ya Ziada",
+      "submitButtonText": "Wasilisha",
+      "formSubmitSuccess": "Fomu imetumwa kwa mafanikio!",
+      "formSubmitError": "Imeshindwa kutuma: {error}",
+      "formSubmitErrorMessage": "Tafadhali jaribu tena baadaye."
+    },
+    {
+      "headerTitle": "Vidokezo vya Urejeleaji!",
+      "loadingIndicator": "Tafadhali subiri...",
+      "noTitle": "Hakuna Kichwa",
+      "contentTypeText": "Maandishi",
+      "contentTypeVideo": "Video",
+      "contentPreviewText": "Vidokezo vya Urejeleaji ni muhimu kwa...",
+      "tapToOpenVideo": "Gusa kufungua video",
+      "errorMessage": "Imeshindwa kufungua URL: {url}",
+      "launchError": "Haikuweza kufungua {url}",
+      "launchURLFailure": "Hatuwezi kufungua URL hii."
+    }
+  ]
+  
